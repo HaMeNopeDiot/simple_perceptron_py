@@ -1,0 +1,4 @@
+datasets/*
+weigths/*
+my_image.jpg
+__pycache__/*
